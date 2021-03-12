@@ -10,8 +10,8 @@
     ],
     "require": {
         "php": "^7.2",
-        "illuminate/support": "7.*",
-        "illuminate/filesystem": "7.*",
+        "illuminate/support": "8.*",
+        "illuminate/filesystem": "8.*",
         "mustache/mustache": "2.*"
     },
     "require-dev": {
